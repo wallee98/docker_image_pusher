@@ -4,4 +4,16 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+#下面是本地电脑镜像
+hello-world:latest
 acgpiano/sqli-labs
+postgres:latest
+cucker/get_command_4_run_container
+mysql:latest
+mysql:5.7
+redis:latest
+v2fly/v2fly-core:latest
+v2ray/official:latest
+# admin, password
+citizenstig/dvwa
